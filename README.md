@@ -1,6 +1,6 @@
-# basketball_points
+# basketball_points_counter
 
-A new Flutter project.
+My first flutter project with cubit/bloc .
 
 ## Getting Started
 
